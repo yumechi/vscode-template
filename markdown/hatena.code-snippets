@@ -39,5 +39,22 @@
             ""
         ],
         "description": ""
+	},
+	"manabi": {
+		"scope": "markdown",
+        "prefix": "manabi",
+        "body": [
+            "## 概要",
+            "",
+            "## やったこと",
+            "",
+            "## 学び",
+            "",
+            "## 展望",
+            "",
+            "## まとめ",
+            ""
+        ],
+        "description": ""
 	}
 }
