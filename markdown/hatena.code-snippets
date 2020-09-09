@@ -56,5 +56,22 @@
             ""
         ],
         "description": ""
+    },
+    "bookmemo": {
+		"scope": "markdown",
+        "prefix": "bookmemo",
+        "body": [
+            "## 概要",
+            "",
+            "## 本のリンク",
+            "",
+            "## 自分の学びポイント",
+            "",
+            "## 展望",
+            "",
+            "## まとめ",
+            ""
+        ],
+        "description": ""
 	}
 }
